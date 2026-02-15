@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>개발 노트 on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/blog/dev/</link><description>Recent content in 개발 노트 on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><atom:link href="https://pcrmcw0486.github.io/blog/dev/index.xml" rel="self" type="application/rss+xml"/><item><title>First Test Post</title><link>https://pcrmcw0486.github.io/blog/first-test-post/</link><pubDate>Thu, 12 Feb 2026 22:44:11 +0900</pubDate><guid>https://pcrmcw0486.github.io/blog/first-test-post/</guid><description>&lt;h1 class="relative group"&gt;First Test Post
+ &lt;div id="first-test-post" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#first-test-post" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;GitHub Pages 자동 배포 테스트입니다!&lt;/p&gt;
+&lt;p&gt;이 글이 블로그에 나타나면 GitHub Actions이 정상 동작하는 것입니다.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;테스트 항목
+ &lt;div id="테스트-항목" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%95%ad%eb%aa%a9" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo로 새 글 생성&lt;/li&gt;
+&lt;li&gt;Git 푸시&lt;/li&gt;
+&lt;li&gt;GitHub Actions 자동 빌드&lt;/li&gt;
+&lt;li&gt;hyeonseop.github.io에 자동 배포&lt;/li&gt;
+&lt;li&gt;GitHub Pages에서 확인&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;모든 것이 잘 작동하고 있습니다! ✨&lt;/p&gt;</description></item></channel></rss>

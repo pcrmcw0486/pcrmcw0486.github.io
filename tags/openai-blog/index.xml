@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Openai-Blog on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/openai-blog/</link><description>Recent content in Openai-Blog on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Fri, 13 Feb 2026 00:10:52 +0900</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/openai-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Harness engineering: leveraging Codex in an agent-first world</title><link>https://pcrmcw0486.github.io/external/2026-02-11-118cb8ef5426-harness-engineering-leveraging-codex-in-an-agent-first-world/</link><pubDate>Wed, 11 Feb 2026 09:00:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-11-118cb8ef5426-harness-engineering-leveraging-codex-in-an-agent-first-world/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://openai.com/index/harness-engineering" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://openai.com/index/harness-engineering" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://openai.com/index/harness-engineering" target="_blank" rel="noreferrer"&gt;https://openai.com/index/harness-engineering&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;By Ryan Lopopolo, Member of the Technical Staff&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;전체 내용은 &lt;a href="https://openai.com/index/harness-engineering" target="_blank" rel="noreferrer"&gt;원문 링크&lt;/a&gt;에서 확인하세요.&lt;/p&gt;</description></item><item><title>Bringing ChatGPT to GenAI.mil</title><link>https://pcrmcw0486.github.io/external/2026-02-09-afa742ed3af9-bringing-chatgpt-to-genaimil/</link><pubDate>Mon, 09 Feb 2026 11:00:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-09-afa742ed3af9-bringing-chatgpt-to-genaimil/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://openai.com/index/bringing-chatgpt-to-genaimil" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://openai.com/index/bringing-chatgpt-to-genaimil" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://openai.com/index/bringing-chatgpt-to-genaimil" target="_blank" rel="noreferrer"&gt;https://openai.com/index/bringing-chatgpt-to-genaimil&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;전체 내용은 &lt;a href="https://openai.com/index/bringing-chatgpt-to-genaimil" target="_blank" rel="noreferrer"&gt;원문 링크&lt;/a&gt;에서 확인하세요.&lt;/p&gt;</description></item><item><title>Testing ads in ChatGPT</title><link>https://pcrmcw0486.github.io/external/2026-02-09-16251d7b149e-testing-ads-in-chatgpt/</link><pubDate>Mon, 09 Feb 2026 11:00:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-09-16251d7b149e-testing-ads-in-chatgpt/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" rel="noreferrer"&gt;https://openai.com/index/testing-ads-in-chatgpt&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;전체 내용은 &lt;a href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" rel="noreferrer"&gt;원문 링크&lt;/a&gt;에서 확인하세요.&lt;/p&gt;</description></item><item><title>Making AI work for everyone, everywhere: our approach to localization</title><link>https://pcrmcw0486.github.io/external/2026-02-06-1118bd5abc31-making-ai-work-for-everyone-everywhere-our-approach-to-localization/</link><pubDate>Fri, 06 Feb 2026 10:00:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-06-1118bd5abc31-making-ai-work-for-everyone-everywhere-our-approach-to-localization/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://openai.com/index/our-approach-to-localization" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://openai.com/index/our-approach-to-localization" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://openai.com/index/our-approach-to-localization" target="_blank" rel="noreferrer"&gt;https://openai.com/index/our-approach-to-localization&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;전체 내용은 &lt;a href="https://openai.com/index/our-approach-to-localization" target="_blank" rel="noreferrer"&gt;원문 링크&lt;/a&gt;에서 확인하세요.&lt;/p&gt;</description></item><item><title>GPT-5 lowers the cost of cell-free protein synthesis</title><link>https://pcrmcw0486.github.io/external/2026-02-05-abf99c21c726-gpt-5-lowers-the-cost-of-cell-free-protein-synthesis/</link><pubDate>Thu, 05 Feb 2026 11:00:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-05-abf99c21c726-gpt-5-lowers-the-cost-of-cell-free-protein-synthesis/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://openai.com/index/gpt-5-lowers-protein-synthesis-cost" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://openai.com/index/gpt-5-lowers-protein-synthesis-cost" target="_blank" rel="noreferrer"&gt;OpenAI Blog&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://openai.com/index/gpt-5-lowers-protein-synthesis-cost" target="_blank" rel="noreferrer"&gt;https://openai.com/index/gpt-5-lowers-protein-synthesis-cost&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;전체 내용은 &lt;a href="https://openai.com/index/gpt-5-lowers-protein-synthesis-cost" target="_blank" rel="noreferrer"&gt;원문 링크&lt;/a&gt;에서 확인하세요.&lt;/p&gt;</description></item></channel></rss>

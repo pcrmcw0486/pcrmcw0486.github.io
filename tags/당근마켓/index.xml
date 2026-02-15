@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>당근마켓 on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93/</link><description>Recent content in 당근마켓 on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Fri, 13 Feb 2026 00:05:31 +0900</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93/index.xml" rel="self" type="application/rss+xml"/><item><title>서버를 위한 Redux: Node.js 이벤트 소싱 라이브러리 개발기</title><link>https://pcrmcw0486.github.io/external/2026-01-23-c91d0bb78bd7-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-redux-nodejs-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0/</link><pubDate>Fri, 23 Jan 2026 05:34:40 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-23-c91d0bb78bd7-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-redux-nodejs-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://medium.com/daangn/%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-redux-node-js-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0-0b2cd4f4a569?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-redux-node-js-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0-0b2cd4f4a569?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-redux-node-js-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0-0b2cd4f4a569?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;https://medium.com/daangn/%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9C%84%ED%95%9C-redux-node-js-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%86%8C%EC%8B%B1-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0-0b2cd4f4a569?source=rss----4505f82a2dbd---4&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;안녕하세요. 당근 프론트엔드코어 리더를 맡고 있는 Tony예요. 저희 팀은 70명이 넘는 당근의 프론트엔드 엔지니어분들이 더 편하고 즐겁게 개발할 수 있도록 개발 환경을 다듬는 일을 하고 있어요.내부 도구를 만들다보면 감사 처리, 롤백, 알림처럼 요구사항이 점점 더 복잡해지게 되는데요. 최근 이처럼 복잡한 요구사항들을 잘 관리하고자 ‘이벤트 소싱 패턴’을 도입했어요.이 글에서는 이 패턴이 만들어진 배경과 함께 더 쉽게 쓰실 수 있도록저희가 직접 만들고 오픈소싱한 라이브러리를 소개하려고해요. 이벤트 소싱이 어쩌면 복잡하고 어려운 개념일 수 있지만, 프론트엔드 엔지니어링을 해보셨다면 쉽게 접할 수 있는 ‘Redux’를 서버로 옮겨놓았다고 생각하면 좀 더 쉽게 몰입하실 수 있을 거예요.프론트엔드와 백엔드 엔지니어는 각각 다른 문제를 해결하고 있기에 어쩌면 서로 다른 세상에 살고 있다고 볼 수도 있는데요. 오늘 이 글을 통해 비즈니스 로직에 대하여 프론트엔드와 백엔드 엔지니어가 서로 이야기&lt;/p&gt;</description></item><item><title>당근페이 백엔드 아키텍처가 걸어온 여정</title><link>https://pcrmcw0486.github.io/external/2026-01-15-6d7c83727833-%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EA%B0%80-%EA%B1%B8%EC%96%B4%EC%98%A8-%EC%97%AC%EC%A0%95/</link><pubDate>Thu, 15 Jan 2026 05:40:53 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-15-6d7c83727833-%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EA%B0%80-%EA%B1%B8%EC%96%B4%EC%98%A8-%EC%97%AC%EC%A0%95/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EA%B0%80-%EA%B1%B8%EC%96%B4%EC%98%A8-%EC%97%AC%EC%A0%95-98615d5a6b06?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EA%B0%80-%EA%B1%B8%EC%96%B4%EC%98%A8-%EC%97%AC%EC%A0%95-98615d5a6b06?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EA%B0%80-%EA%B1%B8%EC%96%B4%EC%98%A8-%EC%97%AC%EC%A0%95-98615d5a6b06?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%ED%8E%98%EC%9D%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EA%B0%80-%EA%B1%B8%EC%96%B4%EC%98%A8-%EC%97%AC%EC%A0%95-98615d5a6b06?source=rss----4505f82a2dbd---4&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;안녕하세요, 당근페이팀에서 백엔드 엔지니어로 일하고 있는 제레미예요. 지난 4년 동안 당근머니 시스템을 구축하고 송금 서비스를 성장시켜 왔고, 현재는 오프라인 결제팀에서 당근머니와 포인트 사용 경험을 동네 가게 결제로 넓히고 있어요.당근페이팀의 백엔드는 Money 라는 하나의 작은 프로젝트에서 출발했어요. 지금은 수십 개의 서비스를 하나의 프로젝트에 운영하고 있고요. 이 과정에서 세 번의 큰 변화가 있었어요. 이 글을 통해 단순했던 계층형 아키텍처(Layered Architecture)에서 헥사고날 아키텍처(Hexagonal Architecture)를 거쳐, 클린 아키텍처(Clean Architecture)와 모노레포(Monorepo)로 확장된 현재까지의 이야기를 들려드리려고 해요.Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the or&lt;/p&gt;</description></item><item><title>Building Event Center: Karrot’s User Event Management Platform</title><link>https://pcrmcw0486.github.io/external/2026-01-12-65bb0910aa68-building-event-center-karrots-user-event-management-platform/</link><pubDate>Mon, 12 Jan 2026 01:50:33 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-12-65bb0910aa68-building-event-center-karrots-user-event-management-platform/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://medium.com/daangn/building-event-center-karrots-user-event-management-platform-387c58b10530?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/building-event-center-karrots-user-event-management-platform-387c58b10530?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/building-event-center-karrots-user-event-management-platform-387c58b10530?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;https://medium.com/daangn/building-event-center-karrots-user-event-management-platform-387c58b10530?source=rss----4505f82a2dbd---4&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;The Journey from Restructuring User Event Conventions to Building an Admin PlatformHi there! I’m Mika, a frontend engineer on Karrot’s Data team.At Karrot, massive amounts of user events are collected every day. These events are essential for designing experiments, improving our products, and making data-driven decisions. But as the logs scaled, managing them effectively became increasingly important.That’s why we restructured our company-wide logging convention and built a platform called Event&lt;/p&gt;</description></item><item><title>당근의 사용자 행동 로그 관리 플랫폼: 이벤트센터 개발기</title><link>https://pcrmcw0486.github.io/external/2026-01-08-7d8bb1b7771c-%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%84%BC%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0/</link><pubDate>Thu, 08 Jan 2026 09:36:40 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-08-7d8bb1b7771c-%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%84%BC%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%84%BC%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0-e3c240945882?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%84%BC%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0-e3c240945882?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%84%BC%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0-e3c240945882?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%96%89%EB%8F%99-%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%84%BC%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0-e3c240945882?source=rss----4505f82a2dbd---4&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;코드로 관리하던 사용자 행동 로그를 플랫폼으로 만든 이유안녕하세요. 당근 데이터가치화팀에서 프론트엔드 엔지니어로 일하고 있는 미카(Mika.kang)예요.당근에서는 수많은 사용자 행동 로그가 매일 쌓이고 있어요. 이 로그들은 실험을 설계하고, 제품을 개선하고, 의사결정을 내리는 데 중요한 역할을 해요. 하지만 로그가 많아질수록 관리 방식의 중요성도 함께 커졌어요.그래서 전사 로그 체계를 다시 정리했고, 사용자 행동 로그를 관리하는 시스템, 이벤트센터를 새로 만들었어요. Git과 코드로 관리하던 방식을 UI 중심으로 바꾸고, 사람이 직접 처리하던 작업은 최대한 자동화했어요. 사용자 행동 로그를 더 일관되고 안전하게 다루기 위해서요.이 글에서는 전사 로그 체계를 개편하게 된 배경부터, 이벤트센터를 어떻게 설계하고 구현했는지까지 과정을 이야기해보려고 해요. 로그가 점점 늘어나면서 관리가 부담이 되기 시작한 분들께 이 글이 작은 힌트가 되기를 바라요!1. 사용자 행동 로그 — 데이터 기반&lt;/p&gt;</description></item><item><title>Standardizing User Activation: How We Built a Shared Data Layer at Karrot</title><link>https://pcrmcw0486.github.io/external/2026-01-02-b8c583cf5133-standardizing-user-activation-how-we-built-a-shared-data-layer-at-karrot/</link><pubDate>Fri, 02 Jan 2026 09:42:38 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-02-b8c583cf5133-standardizing-user-activation-how-we-built-a-shared-data-layer-at-karrot/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://medium.com/daangn/standardizing-user-activation-how-we-built-a-shared-data-layer-at-karrot-342ed895508f?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/standardizing-user-activation-how-we-built-a-shared-data-layer-at-karrot-342ed895508f?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;당근마켓&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://medium.com/daangn/standardizing-user-activation-how-we-built-a-shared-data-layer-at-karrot-342ed895508f?source=rss----4505f82a2dbd---4" target="_blank" rel="noreferrer"&gt;https://medium.com/daangn/standardizing-user-activation-how-we-built-a-shared-data-layer-at-karrot-342ed895508f?source=rss----4505f82a2dbd---4&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Hello, I’m Pepper, a Data Analytics Engineer on the Data Team at Karrot.Our team&amp;rsquo;s vision is to &amp;quot;make user-focused decisions through data every day.&amp;quot; So we don&amp;rsquo;t just focus on reliably collecting massive amounts of data — we also work on transforming it into trustworthy, easy-to-use formats.In this post, I&amp;rsquo;d like to share how we moved away from manually calculating Activation analysis with ad hoc queries and elevated it to a shared data layer used across the organization.BackgroundThe&lt;/p&gt;</description></item></channel></rss>

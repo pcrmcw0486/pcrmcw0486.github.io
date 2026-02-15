@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nhn-Cloud on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/nhn-cloud/</link><description>Recent content in Nhn-Cloud on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Wed, 04 Feb 2026 07:54:51 +0000</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/nhn-cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 프론트엔드 뉴스 한 방에 몰아 보기</title><link>https://pcrmcw0486.github.io/external/2026-02-04-f955d22df5bd-2025-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%89%B4%EC%8A%A4-%ED%95%9C-%EB%B0%A9%EC%97%90-%EB%AA%B0%EC%95%84-%EB%B3%B4%EA%B8%B0/</link><pubDate>Wed, 04 Feb 2026 07:54:51 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-04-f955d22df5bd-2025-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%89%B4%EC%8A%A4-%ED%95%9C-%EB%B0%A9%EC%97%90-%EB%AA%B0%EC%95%84-%EB%B3%B4%EA%B8%B0/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://meetup.nhncloud.com/posts/407" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/407" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/407" target="_blank" rel="noreferrer"&gt;https://meetup.nhncloud.com/posts/407&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.nhncloud.com/?utm_source=meetup&amp;amp;amp;utm_medium=post&amp;amp;amp;utm_campaign=branding&amp;amp;amp;utm_content=0130_frontend&amp;amp;amp;utm_term=top" target="_blank" rel="noreferrer"&gt;&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="low"
+ alt="NHN Cloud_meetup banner_frontendnews2025_202601_1400.png"
+ src="https://image.toast.com/aaaadh/real/2026/techblog/NHN%20Cloudmeetup%20bannerfrontendnews20252026011400%282%29.png"
+ &gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요. NHN Cloud NCUI개발팀 이진우입니다.&lt;/p&gt;
+&lt;p&gt;저는 매주 30여 개의 Web, Frontend, Design, Design System 등의 기술 뉴스레터를 살피고 동료들에게 공유해 왔는데요. 작년에 이어 올해도 개인적으로 인상 깊었던 아티클을 주제별로 공유드리고자 합니다.&lt;/p&gt;</description></item><item><title>수직 중앙 정렬한 텍스트가 치우쳐 보이는 이유</title><link>https://pcrmcw0486.github.io/external/2025-11-11-d06261a70ad5-%EC%88%98%EC%A7%81-%EC%A4%91%EC%95%99-%EC%A0%95%EB%A0%AC%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%B9%98%EC%9A%B0%EC%B3%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link><pubDate>Tue, 11 Nov 2025 23:35:19 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2025-11-11-d06261a70ad5-%EC%88%98%EC%A7%81-%EC%A4%91%EC%95%99-%EC%A0%95%EB%A0%AC%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%B9%98%EC%9A%B0%EC%B3%90-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://meetup.nhncloud.com/posts/397" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/397" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/397" target="_blank" rel="noreferrer"&gt;https://meetup.nhncloud.com/posts/397&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.nhncloud.com/kr" target="_blank" rel="noreferrer"&gt;&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="low"
+ alt="NHN Cloud_meetup banner_fontAlign_202511.png"
+ src="https://image.toast.com/aaaadh/real/2025/techblog/NHN%20Cloudmeetup%20bannerfontAlign202511.png"
+ &gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;혹시 어떤 요소에 넣은 텍스트를 예쁘게 보이려 수직 중앙 정렬 스타일을 적용했는데 조금 치우쳐 보였던 경험이 있으신가요? 화면을 보다 보니 다양한 텍스트들이 조금 삐뚤빼뚤해 보였던 적이 있으신가요? 혹시 아래 문장도 조금 치우쳐져 보이시나요?&lt;/p&gt;</description></item><item><title>AI 코딩 도구 보안 가이드: 실제 사고 사례와 DevContainer 격리 환경 구축 방법</title><link>https://pcrmcw0486.github.io/external/2025-09-30-2486333b8345-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EB%B3%B4%EC%95%88-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%8B%A4%EC%A0%9C-%EC%82%AC%EA%B3%A0-%EC%82%AC%EB%A1%80%EC%99%80-devcontainer-%EA%B2%A9%EB%A6%AC-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%EB%B0%A9%EB%B2%95/</link><pubDate>Tue, 30 Sep 2025 00:13:38 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2025-09-30-2486333b8345-ai-%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B5%AC-%EB%B3%B4%EC%95%88-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%8B%A4%EC%A0%9C-%EC%82%AC%EA%B3%A0-%EC%82%AC%EB%A1%80%EC%99%80-devcontainer-%EA%B2%A9%EB%A6%AC-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%EB%B0%A9%EB%B2%95/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://meetup.nhncloud.com/posts/396" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/396" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/396" target="_blank" rel="noreferrer"&gt;https://meetup.nhncloud.com/posts/396&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.nhncloud.com/kr" target="_blank" rel="noreferrer"&gt;&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="low"
+ alt="NHN Cloud_meetup banner2_DevContainer_202509.png"
+ src="https://image.toast.com/aaaadh/real/2025/techblog/NHN%20Cloudmeetup%20banner2DevContainer202509.png"
+ &gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;들어가며
+ &lt;div id="들어가며" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%eb%93%a4%ec%96%b4%ea%b0%80%eb%a9%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;AI 기반 코딩 도구가 개발 생산성을 혁신적으로 향상시키고 있습니다. 그러나 강력한 기능만큼 보안을 위해 새롭게 고려해야 할 문제들도 함께 등장했습니다. 이 글에서는 Claude Code를 중심으로 AI 코딩 도구를 안전하게 활용할 수 있는 격리 환경 구축 방법을 소개합니다.&lt;/p&gt;</description></item><item><title>Kubernetes CPU Limit을 사용하면 벌어지는 일</title><link>https://pcrmcw0486.github.io/external/2025-09-14-863eac3050f2-kubernetes-cpu-limit%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC/</link><pubDate>Sun, 14 Sep 2025 23:39:12 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2025-09-14-863eac3050f2-kubernetes-cpu-limit%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://meetup.nhncloud.com/posts/395" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/395" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/395" target="_blank" rel="noreferrer"&gt;https://meetup.nhncloud.com/posts/395&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.nhncloud.com/kr" target="_blank" rel="noreferrer"&gt;&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="low"
+ alt="NHN Cloud_meetup banner_K8s CPU limit_202509-01.png"
+ src="https://image.toast.com/aaaadh/real/2025/techblog/NHN%20Cloudmeetup%20bannerK8s%20CPU%20limit20250901.png"
+ &gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;들어가며
+ &lt;div id="들어가며" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%eb%93%a4%ec%96%b4%ea%b0%80%eb%a9%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;오늘날 대부분의 서비스가 컨테이너 환경을 이용하고 있고, 컨테이너를 실행하는 환경으로는 Kubernetes가 표준으로 자리 잡고 있습니다. Kubernetes에서 컨테이너를 실행할 때는 Pod를 사용하는데요. Pod를 사용할 때 컨테이너의 리소스를 얼마나 할당할 것인가는 클러스터의 안정성과 연결되어 있기 때문에 중요한 문제 중 하나입니다. Pod의 컴퓨팅 리소스는 보통 다음과 같이 &lt;strong&gt;requests&lt;/strong&gt;와 &lt;strong&gt;limit&lt;/strong&gt;으로 설정할 수 있습니다.&lt;/p&gt;</description></item><item><title>모바일 앱 난독화(Mobile App Obfuscation)란?</title><link>https://pcrmcw0486.github.io/external/2025-07-20-020d06093be0-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EB%82%9C%EB%8F%85%ED%99%94mobile-app-obfuscation%EB%9E%80/</link><pubDate>Sun, 20 Jul 2025 23:13:22 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2025-07-20-020d06093be0-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EB%82%9C%EB%8F%85%ED%99%94mobile-app-obfuscation%EB%9E%80/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://meetup.nhncloud.com/posts/394" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/394" target="_blank" rel="noreferrer"&gt;NHN Cloud&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://meetup.nhncloud.com/posts/394" target="_blank" rel="noreferrer"&gt;https://meetup.nhncloud.com/posts/394&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.nhncloud.com/kr" target="_blank" rel="noreferrer"&gt;&lt;figure&gt;&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="low"
+ alt="NHN Cloud_meetup banner_Obfuscation_202507-01.png"
+ src="https://image.toast.com/aaaadh/real/2025/techblog/NHN%20Cloudmeetup%20bannerObfuscation20250701.png"
+ &gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;들어가며: 모바일 앱 난독화란?
+ &lt;div id="들어가며-모바일-앱-난독화란" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%eb%93%a4%ec%96%b4%ea%b0%80%eb%a9%b0-%eb%aa%a8%eb%b0%94%ec%9d%bc-%ec%95%b1-%eb%82%9c%eb%8f%85%ed%99%94%eb%9e%80" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;모바일 애플리케이션(이하 ‘앱’)은 사용자 데이터와 기업 지식 재산권을 보호하기 위한 강력한 보안 조치가 반드시 필요합니다. 특히, 인터넷을 통해 앱이 전 세계로 배포되면서 해커들의 공격 대상이 되기 쉬워졌습니다. 이러한 상황에서 **난독화(Obfuscation)**는 소스 코드나 바이너리 파일을 복잡하게 변환하여 역공학(逆工學, Reverse Engineering) 및 해킹 시도로부터 앱을 보호하는 핵심 기술로 자리 잡았습니다. 이 글에서는 모바일 환경에서 난독화의 중요성과 다양한 난독화 솔루션들이 제공하는 기능들을&lt;/p&gt;</description></item></channel></rss>

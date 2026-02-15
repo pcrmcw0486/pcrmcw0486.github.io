@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>카카오엔터프라이즈 on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88/</link><description>Recent content in 카카오엔터프라이즈 on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Fri, 13 Feb 2026 00:10:52 +0900</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88/index.xml" rel="self" type="application/rss+xml"/><item><title>[IT TREND] 자율 AI 에이전트, ChatGPT 다음의 메가트렌드?</title><link>https://pcrmcw0486.github.io/external/2023-05-19-96a370354cd6-it-trend-%EC%9E%90%EC%9C%A8-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-chatgpt-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A9%94%EA%B0%80%ED%8A%B8%EB%A0%8C%EB%93%9C/</link><pubDate>Fri, 19 May 2023 08:22:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2023-05-19-96a370354cd6-it-trend-%EC%9E%90%EC%9C%A8-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-chatgpt-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A9%94%EA%B0%80%ED%8A%B8%EB%A0%8C%EB%93%9C/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://tech.kakaoenterprise.com/194" target="_blank" rel="noreferrer"&gt;카카오엔터프라이즈&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://tech.kakaoenterprise.com/194" target="_blank" rel="noreferrer"&gt;카카오엔터프라이즈&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://tech.kakaoenterprise.com/194" target="_blank" rel="noreferrer"&gt;https://tech.kakaoenterprise.com/194&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;시작하며
+피자를 시켜달라고 했더니 AI가 스스로 피자를 전화로 주문하고, 스스로 자신의 코드를 리뷰하고 개선하는 AI 사례까지 등장한 오늘. 이제 사람들의 관심은 ChatGPT에서 AI 모델이 스스로 외부 툴을 활용하여 보다 적은 사람의 개입으로 더 복잡한 일을 처리해주는 &amp;lsquo;Autonomous AI Agent (이하 자율 AI 에이전트)&amp;lsquo;로 이동하고 있습니다. 자율 AI 에이전트가 주목을 받기 시작한 것은 이와 같은 프레임워크를 개발자들이 사용해볼 수 있도록 한 Auto-GPT라는 오픈소스 앱이 화제가 되었기 때문인데요. Auto-GPT는 출시한지 불과 한 달여 밖에 되지 않은 ‘실험’이지만, 한 달만에 GitHub에서 30번째로 가장 star 수가 많은 프로젝트로 등재될 정도로 많은 관심을 받고 있습니다. 하지만 연구자 및 개발자 커뮤니티에서 받고 있는 뜨거운 관심 대비, Auto-GPT를 비롯한 자율 AI 에이전트는 아직 ChatGPT만큼&lt;/p&gt;</description></item><item><title>About Us</title><link>https://pcrmcw0486.github.io/external/2020-04-07-c6e4ef8efd45-about-us/</link><pubDate>Tue, 07 Apr 2020 07:06:33 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2020-04-07-c6e4ef8efd45-about-us/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://tech.kakaoenterprise.com/notice/39" target="_blank" rel="noreferrer"&gt;카카오엔터프라이즈&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://tech.kakaoenterprise.com/notice/39" target="_blank" rel="noreferrer"&gt;카카오엔터프라이즈&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://tech.kakaoenterprise.com/notice/39" target="_blank" rel="noreferrer"&gt;https://tech.kakaoenterprise.com/notice/39&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;기술의 발전으로 우리는 마음속에 그려오던 미래 사회에 한 발짝 가까워졌습니다. 모든 기술이 연결되는 클라우드, 동료가 되어주는 AI, 언택트 서비스를 위한 디지털 전환 등 카카오엔터프라이즈는 단순한 기술 개발을 넘어, 사람을 이해하는 최적의 기술을 연구하며 더 편리한 일상을 추구합니다. 
+ 
+카카오엔터프라이즈 기술 블로그, 테크앤(Tech &amp;amp;)은 기술(technology)에 우리를 둘러싼 수많은 것들을 결합(&amp;amp;)하여 더 나은 미래를 만들 수 있다는 취지로 지은 이름입니다. 취지에 맞게 본 블로그에서는 카카오엔터프라이즈가 발전시켜나가는 기술과 이를 기반으로 만들어가는 일상과 비즈니스의 변화를 ‘크루(Kakao + crew = Krew)’들이 널리 알리고자 합니다.
+ &lt;/p&gt;</description></item></channel></rss>

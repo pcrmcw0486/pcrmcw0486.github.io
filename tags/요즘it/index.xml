@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>요즘it on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/%EC%9A%94%EC%A6%98it/</link><description>Recent content in 요즘it on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Fri, 13 Feb 2026 00:05:12 +0000</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/%EC%9A%94%EC%A6%98it/index.xml" rel="self" type="application/rss+xml"/><item><title>AI가 선을 넘기 시작할 때, 기업은 뭘 해야 할까?</title><link>https://pcrmcw0486.github.io/external/2026-02-13-645f46ed3a67-ai%EA%B0%80-%EC%84%A0%EC%9D%84-%EB%84%98%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%95%A0-%EB%95%8C-%EA%B8%B0%EC%97%85%EC%9D%80-%EB%AD%98-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C/</link><pubDate>Fri, 13 Feb 2026 00:05:12 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-13-645f46ed3a67-ai%EA%B0%80-%EC%84%A0%EC%9D%84-%EB%84%98%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%95%A0-%EB%95%8C-%EA%B8%B0%EC%97%85%EC%9D%80-%EB%AD%98-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://yozm.wishket.com/magazine/detail/3603" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3603" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3603" target="_blank" rel="noreferrer"&gt;https://yozm.wishket.com/magazine/detail/3603&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;대형 언어 모델(Large Language Model, 이하 LLM)의 급속한 발전으로 기업들은 놀라운 생산성 향상의 기회를 갖게 되었지만, 동시에 보안, 개인정보, 윤리적 위험이라는 새로운 도전에 직면하고 있습니다. 특히 내부망과 외부망 분리가 일반적인 국내 기업 환경에서는 이러한 문제가 더욱 두드러집니다. 오늘 이야기는 세 가지 주요 섹션으로 구성됩니다. 먼저 기업에서 AI를 도입할 때 발생하는 보안과 생산성 사이의 딜레마를 살펴보고, 특히 국내의 내부망과 외부망 개념과 그 영향에 대해 알아보겠습니다. 두 번째 챕터에서는 안전한 LLM 솔루션 구축을 위한 원칙을 다룹니다. 마지막으로 윤리적 AI의 미래와 우리가 준비해야 할 다음 단계에 대해 논의하겠습니다.&lt;/p&gt;</description></item><item><title>Cursor로 설계부터 마무리까지, 레거시 마이그레이션 해봤습니다</title><link>https://pcrmcw0486.github.io/external/2026-02-13-24e11bcab91a-cursor%EB%A1%9C-%EC%84%A4%EA%B3%84%EB%B6%80%ED%84%B0-%EB%A7%88%EB%AC%B4%EB%A6%AC%EA%B9%8C%EC%A7%80-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</link><pubDate>Fri, 13 Feb 2026 00:05:12 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-13-24e11bcab91a-cursor%EB%A1%9C-%EC%84%A4%EA%B3%84%EB%B6%80%ED%84%B0-%EB%A7%88%EB%AC%B4%EB%A6%AC%EA%B9%8C%EC%A7%80-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%B4%EB%B4%A4%EC%8A%B5%EB%8B%88%EB%8B%A4/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://yozm.wishket.com/magazine/detail/3605" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3605" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3605" target="_blank" rel="noreferrer"&gt;https://yozm.wishket.com/magazine/detail/3605&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;어느 날 여러분에게 죽어있던 프로젝트가 할당되었습니다. 앞으로 론칭까진 3개월, No 인수인계, No 문서… 이런 상황에서 어떻게 하실 건가요? 해당 프로젝트는 담당자가 갑작스럽게 퇴사하면서 진행이 중단되었고, 다른 작업으로 인해 우선순위가 계속 밀려나고 있는 프로젝트였습니다. 그런 와중에 제가 살며시 손을 들어봤습니다. “음… 제가 한번 해볼까요? AI로 하면 가능할 것 같네요.”이번 글에서는 Cursor의 Rules, Skills, Subagent, Hooks를 공식 문서의 메커니즘에 기반해 어떻게 설계하고 활용하여, 복잡하고 귀찮은 마이그레이션 작업을 편리하게 마무리할 수 있었는지 공유해보겠습니다.&lt;/p&gt;</description></item><item><title>검색 말고 ‘리서치’ 잘하는 사람이 쓰는 도구 7가지</title><link>https://pcrmcw0486.github.io/external/2026-02-13-735ac368ca62-%EA%B2%80%EC%83%89-%EB%A7%90%EA%B3%A0-%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%9E%98%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%93%B0%EB%8A%94-%EB%8F%84%EA%B5%AC-7%EA%B0%80%EC%A7%80/</link><pubDate>Fri, 13 Feb 2026 00:05:12 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-13-735ac368ca62-%EA%B2%80%EC%83%89-%EB%A7%90%EA%B3%A0-%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%9E%98%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%93%B0%EB%8A%94-%EB%8F%84%EA%B5%AC-7%EA%B0%80%EC%A7%80/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://yozm.wishket.com/magazine/detail/3604" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3604" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3604" target="_blank" rel="noreferrer"&gt;https://yozm.wishket.com/magazine/detail/3604&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;일을 하다 보면 하루에도 몇 번씩 같은 생각이 떠오릅니다. “이게 뭐지?” 예전에는 이런 순간마다 검색창부터 열었습니다. 하지만 요즘은 다릅니다. 찾는 것은 AI 툴입니다. 검색창 대신 채팅창에서 대화하며 궁금한 것을 찾아가죠. 다만, 챗GPT만으로 모자란 느낌이 들 때가 있습니다. 상황별로 ‘지금 뭘 해야 하는지’ 판단하기 어렵기 때문입니다. 그래서 단계별 흐름을 적합한 도구와 함께 정리해 보았습니다. 감을 잡아야 할 때, 조사 초안을 뽑아야 할 때, 남는 정리를 해야 할 때, 근거를 검증해야 할 때마다 적합한 도구와 필요한 것이 다릅니다.&lt;/p&gt;</description></item><item><title>닌텐도 못 하게 했더니 직접 게임 만든 10살 아들(개발자 아빠의 관찰기)</title><link>https://pcrmcw0486.github.io/external/2026-02-13-4c57f7ca42ef-%EB%8B%8C%ED%85%90%EB%8F%84-%EB%AA%BB-%ED%95%98%EA%B2%8C-%ED%96%88%EB%8D%94%EB%8B%88-%EC%A7%81%EC%A0%91-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A0-10%EC%82%B4-%EC%95%84%EB%93%A4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%95%84%EB%B9%A0%EC%9D%98-%EA%B4%80%EC%B0%B0%EA%B8%B0/</link><pubDate>Fri, 13 Feb 2026 00:05:12 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-13-4c57f7ca42ef-%EB%8B%8C%ED%85%90%EB%8F%84-%EB%AA%BB-%ED%95%98%EA%B2%8C-%ED%96%88%EB%8D%94%EB%8B%88-%EC%A7%81%EC%A0%91-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A0-10%EC%82%B4-%EC%95%84%EB%93%A4%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%95%84%EB%B9%A0%EC%9D%98-%EA%B4%80%EC%B0%B0%EA%B8%B0/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://yozm.wishket.com/magazine/detail/3606" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3606" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3606" target="_blank" rel="noreferrer"&gt;https://yozm.wishket.com/magazine/detail/3606&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;최근 LinkedIn에서 가장 화제가 된 바이브 코더의 이야기 중 하나는 바로 ‘10살 막내가 Claude Code로 만든 게임, 혼자 보기 아까워서 공개합니다’라는 포스트일 겁니다. 한 달도 안 되는 기간 동안 약 천백 개의 ‘좋아요’를 기록했는데요. 이제 바이브 코딩이 세대를 넘어 어린 친구들에게까지 전파되어 사용되고 있다는 것이 놀랍기만 합니다. AI 네이티브 세대의 첫 번째 개발 경험을 곁에서 지켜보며 얻은 인사이트를 들어보고 싶어, 게임을 만든 개발자의 아버지인 서인근 님을 만나봤습니다.&lt;/p&gt;</description></item><item><title>비개발자지만 5일 만에 크롬 확장 프로그램 출시했습니다 (with Cursor)</title><link>https://pcrmcw0486.github.io/external/2026-02-13-3becac66a86d-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%A7%80%EB%A7%8C-5%EC%9D%BC-%EB%A7%8C%EC%97%90-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B6%9C%EC%8B%9C%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-cursor/</link><pubDate>Fri, 13 Feb 2026 00:05:12 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-02-13-3becac66a86d-%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%A7%80%EB%A7%8C-5%EC%9D%BC-%EB%A7%8C%EC%97%90-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B6%9C%EC%8B%9C%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-with-cursor/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://yozm.wishket.com/magazine/detail/3602" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3602" target="_blank" rel="noreferrer"&gt;요즘IT&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://yozm.wishket.com/magazine/detail/3602" target="_blank" rel="noreferrer"&gt;https://yozm.wishket.com/magazine/detail/3602&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;저는 비개발자입니다. 하지만, 단 2일 만에 크롬 확장 프로그램의 MVP(Minimum Viable Product)를 개발했고, 5일 만에 크롬 웹스토어에 제품을 출시했습니다. Chrome 웹스토어 개발자 등록 준비와 구글의 확장 프로그램 검토 과정까지 더해 전체 일정이 총 5일 걸린 것입니다. 그것도 업무 시간과 육아가 끝난 다음 자투리 시간만을 활용해서 말이죠. 그렇게 바이브 코딩으로 크롬 확장 프로그램을 개발하고 출시하며 배운 것을 함께 나눠보려고 합니다.&lt;/p&gt;</description></item></channel></rss>

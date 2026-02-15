@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>네이버d2 on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84d2/</link><description>Recent content in 네이버d2 on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Wed, 21 Jan 2026 17:17:24 +0000</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84d2/index.xml" rel="self" type="application/rss+xml"/><item><title>스마트스토어센터 Oracle에서 MySQL로의 무중단 전환기</title><link>https://pcrmcw0486.github.io/external/2026-01-21-5d89ed37bfd9-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%BC%ED%84%B0-oracle%EC%97%90%EC%84%9C-mysql%EB%A1%9C%EC%9D%98-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%A0%84%ED%99%98%EA%B8%B0/</link><pubDate>Wed, 21 Jan 2026 17:17:24 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-21-5d89ed37bfd9-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8A%A4%ED%86%A0%EC%96%B4%EC%84%BC%ED%84%B0-oracle%EC%97%90%EC%84%9C-mysql%EB%A1%9C%EC%9D%98-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%A0%84%ED%99%98%EA%B8%B0/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://d2.naver.com/helloworld/6512234" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://d2.naver.com/helloworld/6512234" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://d2.naver.com/helloworld/6512234" target="_blank" rel="noreferrer"&gt;https://d2.naver.com/helloworld/6512234&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;스마트스토어 플랫폼 내 여러 파트가 공동으로 사용하던 Oracle DBMS는 비즈니스 성장에 따라 리소스 경합이 심화되면서 서비스 성능 불안정을 초래했습니다. 기존 Oracle 인프라의 확장은 막대한 라이선스 비용 증가로 이어지기 때문에, 스마트스토어 회원 파트는 운영 비효율성과 비용 압박을 해소하고자 오픈소스인 MySQL로 DBMS 마이그레이션을 결정했습니다.&lt;/p&gt;</description></item><item><title>네이버 통합검색 AIB 도입과 웹 성능 변화 분석</title><link>https://pcrmcw0486.github.io/external/2026-01-19-b4bb9dfae996-%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%86%B5%ED%95%A9%EA%B2%80%EC%83%89-aib-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EB%B3%80%ED%99%94-%EB%B6%84%EC%84%9D/</link><pubDate>Mon, 19 Jan 2026 11:04:21 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-19-b4bb9dfae996-%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%86%B5%ED%95%A9%EA%B2%80%EC%83%89-aib-%EB%8F%84%EC%9E%85%EA%B3%BC-%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EB%B3%80%ED%99%94-%EB%B6%84%EC%84%9D/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://d2.naver.com/helloworld/4241703" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://d2.naver.com/helloworld/4241703" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://d2.naver.com/helloworld/4241703" target="_blank" rel="noreferrer"&gt;https://d2.naver.com/helloworld/4241703&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;AIB(AI Briefing)는 네이버 통합검색에서 AI 기반 요약·브리핑 경험을 제공하는 기능입니다. 2025년 3월부터 단계적으로 도입되었으며, 초기에는 정적인 요약 형태 중심이었고 2025년 7월 채팅 UI 기반의 애니메이션 인터페이스가 추가되면서 상호작용 요소가 확장되었습니다.&lt;/p&gt;
+&lt;p&gt;이러한 변화와 함께 트래픽에서 AIB가 차지하는 비중도 점차 증가하고 있습니다. 현재 네이버 통합검색에서 LCP(Largest Contentful Paint)로 측정되는 영역 중 AIB 영역이 약 10%를 차지하며, LCP 후보 영역으로 선택되는 빈도 또한 상위권입니다. 즉, AIB는 더 이상 일부 사용자에게만 노출되는 부가 기능이 아니라, 그 렌더링 방식이 검색 성능 지표 전반에 영향을 주는 단계라고 볼 수 있습니다.&lt;/p&gt;</description></item><item><title>FE News 26년 1월 소식을 전해드립니다!</title><link>https://pcrmcw0486.github.io/external/2026-01-14-034ba532ca40-fe-news-26%EB%85%84-1%EC%9B%94-%EC%86%8C%EC%8B%9D%EC%9D%84-%EC%A0%84%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/</link><pubDate>Wed, 14 Jan 2026 10:57:09 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2026-01-14-034ba532ca40-fe-news-26%EB%85%84-1%EC%9B%94-%EC%86%8C%EC%8B%9D%EC%9D%84-%EC%A0%84%ED%95%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://d2.naver.com/news/5798505" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://d2.naver.com/news/5798505" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://d2.naver.com/news/5798505" target="_blank" rel="noreferrer"&gt;https://d2.naver.com/news/5798505&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;주요소식&lt;/p&gt;
+&lt;p&gt;다음과 같은 유용한 정보들을 만나보실 수 있습니다.&lt;/p&gt;
+&lt;p&gt;RSC Explorer - React Server Components 시각화 도구&lt;/p&gt;
+&lt;p&gt;Dan Abramov가 React Server Components(RSC) 프로토콜을 시각화하는 도구를 공개했다. 브라우저에서 RSC 스트림을 단계별로 재생하고 분해할 수 있으며, 서버·클라이언트·flight·preview 4개 패널로 데이터 흐름을 표시한다. 네트워크 요청 없이 동작하고 React가 제공하는 reader/writer를 그대로 사용하기 때문에 출력 결과는 실제 프로토콜과 동일하다. 스트리밍(Suspense), Client Reference, Server Actions, Router refresh 같은 프레임워크 내부 동작 원리를 이해할 수 있는 RSC 디버깅과 교육 자료로 활용하기 좋은 도구다..&lt;/p&gt;</description></item><item><title>비용, 성능, 안정성을 목표로 한 지능형 로그 파이프라인 도입</title><link>https://pcrmcw0486.github.io/external/2025-12-17-5d7bdd63098d-%EB%B9%84%EC%9A%A9-%EC%84%B1%EB%8A%A5-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%AA%A9%ED%91%9C%EB%A1%9C-%ED%95%9C-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%8F%84%EC%9E%85/</link><pubDate>Wed, 17 Dec 2025 17:34:06 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2025-12-17-5d7bdd63098d-%EB%B9%84%EC%9A%A9-%EC%84%B1%EB%8A%A5-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%AA%A9%ED%91%9C%EB%A1%9C-%ED%95%9C-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%8F%84%EC%9E%85/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://d2.naver.com/helloworld/0004394" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://d2.naver.com/helloworld/0004394" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://d2.naver.com/helloworld/0004394" target="_blank" rel="noreferrer"&gt;https://d2.naver.com/helloworld/0004394&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Logiss는 AIDA(Advanced Interface for Data &amp;amp; AI)라는 네이버 사내 통합 데이터 플랫폼의 일부로, 로그 수집과 실시간 검색을 통해 문제를 추적하고 데이터를 분석하도록 지원합니다. 또한 Cuve와 CQuery라는 대용량 데이터 저장소 및 분석 설루션과 데이터를 연동합니다.&lt;/p&gt;</description></item><item><title>[인턴십] 2026 NAVER AI CHALLENGE를 소개합니다.</title><link>https://pcrmcw0486.github.io/external/2025-12-10-d59133e4fdf5-%EC%9D%B8%ED%84%B4%EC%8B%AD-2026-naver-ai-challenge%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/</link><pubDate>Wed, 10 Dec 2025 19:41:17 +0000</pubDate><guid>https://pcrmcw0486.github.io/external/2025-12-10-d59133e4fdf5-%EC%9D%B8%ED%84%B4%EC%8B%AD-2026-naver-ai-challenge%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/</guid><description>&lt;blockquote&gt;&lt;p&gt;이 글은 &lt;a href="https://d2.naver.com/news/7477295" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;에서 자동으로 가져온 글입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="relative group"&gt;원문 보기
+ &lt;div id="원문-보기" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9b%90%eb%ac%b8-%eb%b3%b4%ea%b8%b0" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;출처:&lt;/strong&gt; &lt;a href="https://d2.naver.com/news/7477295" target="_blank" rel="noreferrer"&gt;네이버D2&lt;/a&gt;
+&lt;strong&gt;링크:&lt;/strong&gt; &lt;a href="https://d2.naver.com/news/7477295" target="_blank" rel="noreferrer"&gt;https://d2.naver.com/news/7477295&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;요약
+ &lt;div id="요약" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9a%94%ec%95%bd" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;네이버의 개발 문화와 함께 프로젝트 협업 방식을 체험할 수 있는 2026 NAVER AI CHALLENGE 인턴십 모집을 시작했습니다.
+실무에서 다루는 AI 문제를 네이버의 현업 엔지니어와 함께 아이디어 설계 단계부터 기술적 방향성, 검증 과정까지 전 과정을 함께 학습하고 성장할 수 있는 좋은 기회입니다. 원활한 협업과 멘토링을 위해 전용 좌석을 제공하며, 수행 기간 동안 프로젝트 활동비 및 최신 OA 장비도 지급됩니다.&lt;/p&gt;</description></item></channel></rss>

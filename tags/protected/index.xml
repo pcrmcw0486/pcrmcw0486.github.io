@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Protected on hyeonseop 기술 블로그</title><link>https://pcrmcw0486.github.io/tags/protected/</link><description>Recent content in Protected on hyeonseop 기술 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko</language><copyright>© 2026</copyright><lastBuildDate>Thu, 12 Feb 2026 23:21:52 +0900</lastBuildDate><atom:link href="https://pcrmcw0486.github.io/tags/protected/index.xml" rel="self" type="application/rss+xml"/><item><title>🔒 비밀글</title><link>https://pcrmcw0486.github.io/blog/secret-post/</link><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate><guid>https://pcrmcw0486.github.io/blog/secret-post/</guid><description>&lt;h1 class="relative group"&gt;짜잔 비밀이었어~! 🎉
+ &lt;div id="짜잔-비밀이었어-" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%a7%9c%ec%9e%94-%eb%b9%84%eb%b0%80%ec%9d%b4%ec%97%88%ec%96%b4-" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;이 글은 비밀번호로 보호되고 있습니다.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;비밀 내용
+ &lt;div id="비밀-내용" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%eb%b9%84%eb%b0%80-%eb%82%b4%ec%9a%a9" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;여기는 오직 비밀번호를 아는 사람만 볼 수 있는 공간입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;개인적인 생각&lt;/li&gt;
+&lt;li&gt;공개하기 부담스러운 내용&lt;/li&gt;
+&lt;li&gt;특정 사람들에게만 공유하고 싶은 이야기&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class="relative group"&gt;이 시스템의 특징
+ &lt;div id="이-시스템의-특징" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%ec%9d%b4-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9d%98-%ed%8a%b9%ec%a7%95" aria-label="앵커"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;클라이언트에서 AES 암호화&lt;/li&gt;
+&lt;li&gt;비밀번호는 서버에 전송되지 않음&lt;/li&gt;
+&lt;li&gt;정적 사이트에서도 비밀번호 보호 가능&lt;/li&gt;
+&lt;li&gt;비밀번호는 GitHub Secrets에 안전하게 보관&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;비밀번호는 블로그 주인만 알고 있습니다. 직접 문의하세요!&lt;/p&gt;</description></item></channel></rss>
