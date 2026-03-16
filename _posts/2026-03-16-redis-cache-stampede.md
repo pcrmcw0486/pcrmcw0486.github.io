@@ -1,7 +1,7 @@
 ---
 title: "[Redis 캐시설계] Cache Stampede와 대응 전략"
 date: 2026-03-16 10:00:00 +0900
-categories: [Redis, 캐시설계]
+categories: [Redis, 캐시설계, Stampede]
 tags: [redis, cache-stampede, distributed-lock, traffic]
 ---
 
