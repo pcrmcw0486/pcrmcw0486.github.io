@@ -80,7 +80,7 @@ Redis 장애 나면 어떻게 할거냐?
 - 요청 패턴 검증 (비정상 요청 필터링)
 
 ### 7. Cache Avalanche
-대량의 캐시가 동시에 만료되어 DB에 순간 부하가 몰리는 문제.
+대량의 캐시가 동시에 만료되어 DB에 순간 부하가 몰리는 문제w.
 - TTL에 random jitter 추가하여 만료 시점 분산
 - Cache Stampede와 유사하지만, stampede는 단일 키 / avalanche는 다수 키 동시 만료
 - 캐시 워밍업 (서버 기동 시 주요 데이터 사전 적재)
