@@ -197,11 +197,17 @@ Phase04에서 자동화된것 빼고 미리 할 수 있다.. 로 이해하면 �
 
 ```
 Phase 03 끝 시점의 BeanFactory:
-  BeanDefinition 1개
-    └── MyApp (=@SpringBootApplication 클래스)
+  BeanDefinition 여러 개 등록됨
+    └── MyApp (=@SpringBootApplication 클래스) — load()에서 등록
+    └── ConfigurationClassPostProcessor — @Configuration 처리를 위한 인프라
+    └── AutowiredAnnotationBeanPostProcessor — @Autowired 처리
+    └── CommonAnnotationBeanPostProcessor — @PostConstruct, @Resource 처리
+    └── DefaultEventListenerFactory — @EventListener 처리
+    └── 기타 내부 인프라 BeanDefinition들
+    (모두 "설계도"만 등록된 상태, 인스턴스는 아직 없음)
     
 의존성 그래프: 아직 없음
-나머지 모든 Bean: 아직 모름
+사용자 정의 Bean: 아직 모름
 
 Phase 04에서 MyApp을 시작점으로
 @ComponentScan, @Import 등을 따라가며
@@ -387,10 +393,13 @@ ApplicationContext 인스턴스 생성 완료 (ApplicationType에 따라 구현�
   └── Environment 연결됨
   └── 핵심 BeanPostProcessor 등록됨 (@Autowired, @Value 처리기)
   └── Initializer들 실행 완료
-  └── BeanDefinition 1개 등록됨 (= @SpringBootApplication 클래스)
+  └── BeanDefinition 등록됨
+       - MyApp (@SpringBootApplication 클래스) — load()에서 등록
+       - 인프라 BeanDefinition들 (ConfigurationClassPostProcessor, AutowiredAnnotationBeanPostProcessor 등)
+         — ApplicationContext 생성 시 자동 등록
 
 아직 없는 것:
-  나머지 BeanDefinition들 — Phase 04에서 @ComponentScan, @Import 등으로 수집
+  사용자 정의 BeanDefinition들 — Phase 04에서 @ComponentScan, @Import 등으로 수집
   Bean 인스턴스 — Phase 05에서 생성
 
 이벤트:

@@ -1,5 +1,6 @@
 ---
 title: "SpringApplication 초기화 알아보기 - 3. ApplicationContext 생성"
+> - [4. Bean Definition 등록](/posts/Spring/SpringApplication-초기화-알아보기-4)
 date: 2026-04-01 10:00:00 +0900
 categories: [Spring]
 tags: [spring-boot, startup, application-context, bean-definition, initializer, context-hierarchy]
@@ -9,6 +10,7 @@ tags: [spring-boot, startup, application-context, bean-definition, initializer, 
 > - [1. 초기화](/posts/Spring/SpringApplication-초기화-알아보기-1)
 > - [2. Environment 준비](/posts/Spring/SpringApplication-초기화-알아보기-2)
 > - **3. ApplicationContext 생성** ← 현재 글
+> - [4. Bean Definition 등록](/posts/Spring/SpringApplication-초기화-알아보기-4)
 
 ### 전체 개요
 
@@ -23,6 +25,7 @@ tags: [spring-boot, startup, application-context, bean-definition, initializer, 
 ---
 
 ### 3. ApplicationContext 생성 - Context Instance 준비
+> - [4. Bean Definition 등록](/posts/Spring/SpringApplication-초기화-알아보기-4)
 ApplicationContextInitializedEvent / ApplicationPreparedEvent
 Phase02에서 Environment들이 준비완료되었고 PropertySource체인들이 구성되었음.
 이를 사용하여, Application Context를 생성함.
@@ -198,11 +201,17 @@ Phase04에서 자동화된것 빼고 미리 할 수 있다.. 로 이해하면 �
 
 ```
 Phase 03 끝 시점의 BeanFactory:
-  BeanDefinition 1개
-    └── MyApp (=@SpringBootApplication 클래스)
+  BeanDefinition 여러 개 등록됨
+    └── MyApp (=@SpringBootApplication 클래스) — load()에서 등록
+    └── ConfigurationClassPostProcessor — @Configuration 처리를 위한 인프라
+    └── AutowiredAnnotationBeanPostProcessor — @Autowired 처리
+    └── CommonAnnotationBeanPostProcessor — @PostConstruct, @Resource 처리
+    └── DefaultEventListenerFactory — @EventListener 처리
+    └── 기타 내부 인프라 BeanDefinition들
+    (모두 "설계도"만 등록된 상태, 인스턴스는 아직 없음)
     
 의존성 그래프: 아직 없음
-나머지 모든 Bean: 아직 모름
+사용자 정의 Bean: 아직 모름
 
 Phase 04에서 MyApp을 시작점으로
 @ComponentScan, @Import 등을 따라가며
@@ -221,6 +230,7 @@ Phase 04에서 MyApp을 시작점으로
 ApplicationContextInitializer - 지금 호출 되는 훅
 Phase01에서 spring.factories로 수집해둔 Initializer들이 여기서 "실제로 호출"된다.
 ```
+// spring-boot에서 등록
 1. DelegatingApplicationContextInitializer
 context.initializer.classes 프로퍼티를 읽어서
 거기 적힌 Initializer들을 추가로 실행해주는 위임자
@@ -232,18 +242,34 @@ context:
   initializer:
     classes: com.example.MyInitializer, com.example.AnotherInitializer
 
-2. ConditionEvaluationReportLoggingListener
-@Conditional 평가 결과를 수집
-기동 실패 시 "왜 이 Bean이 생성 안 됐는지" 리포트 출력하는 것
-
-3. ConfigurationWarningsApplicationContextInitializer
+2. ConfigurationWarningsApplicationContextInitializer
 잘못된 설정 감지해서 경고 출력
 예: @ComponentScan을 너무 넓은 패키지에 걸었을 때
+
+3. ContextIdApplicationContextInitializer
+ApplicationContext에 고유 ID를 부여
+spring.application.name 프로퍼티 값을 기반으로 context ID 설정
+→ 로깅이나 JMX에서 context를 구분할 때 사용됨
 
 4. ServerPortInfoApplicationContextInitializer  
 서버가 실제로 뜬 포트를 Environment에 등록
 local.server.port 프로퍼티로 접근 가능하게 해줌
 @SpringBootTest(webEnvironment = RANDOM_PORT) 할 때 쓰는 그것
+
+5. RSocketPortInfoApplicationContextInitializer
+ServerPortInfoApplicationContextInitializer의 RSocket 버전
+RSocket 서버가 뜬 포트를 local.rsocket.server.port 프로퍼티로 등록
+
+// spring-boot-autoconfigure에서 등록
+6. SharedMetadataReaderFactoryContextInitializer
+ConfigurationClassPostProcessor와 같은 MetadataReaderFactory를 공유하도록 설정
+클래스 메타데이터 파싱 캐시를 공유해서 기동 속도를 최적화하는 역할
+
+7. ConditionEvaluationReportLoggingListener
+// 이름이 "Listener"이지만 실제로는 ApplicationContextInitializer를 구현한다.
+// initialize()에서 내부 ApplicationListener를 context에 등록하는 방식
+@Conditional 평가 결과를 수집
+기동 실패 시 "왜 이 Bean이 생성 안 됐는지" 리포트 출력하는 것
 
 직접 만드는 경우
 class SecretsManagerInitializer : ApplicationContextInitializer<ConfigurableApplicationContext> {
@@ -369,11 +395,12 @@ Root Context (root-context.xml)
 
 HandlerMapping이 하는 일:
 "이 URL 처리할 수 있는 Controller 찾아줘" 요청을 받아 @RequestMapping 정보를 보고 적절한 메서드를 반환한다.
-즉, XML시절의 URL분기를 'context분리'로 해결했고, 지금은 '같은 context안에서 HandlerMapping'이 routing해준다.
+즉, XML시절에는 여러 DispatcherServlet + Context분리로 URL을 나눴고, 지금은 같은 context안에서 HandlerMapping이 routing해준다.
+(정확히는 여러 DispatcherServlet의 주된 목적은 '서블릿 수준의 격리'(별도 Controller 네임스페이스, 다른 뷰 기술 등)였고, URL 분기는 서블릿 매핑의 부수 효과였다.)
 ```
 
 - 요즘 SpringBoot 단일앱에서는 거의 사용하지않지만, 아직 살아있는 곳이 있기는 하다.
-1. Spring Batch - 기본은 JobScope/StepScope로 같은 Context 안에서 격리하지만, `@EnableBatchProcessing(modular=true)` + `GenericApplicationContextFactory`를 사용하면 Job 설정별 별도 Child Context를 opt-in할 수 있다.
+1. Spring Batch - 기본은 JobScope/StepScope로 같은 Context 안에서 격리한다. Spring Batch 4.x에서는 `@EnableBatchProcessing(modular=true)` + `GenericApplicationContextFactory`로 Job별 Child Context를 만들 수 있었으나, Spring Batch 5.x (Spring Boot 3.x)에서 `modular` 속성과 `GenericApplicationContextFactory`가 제거되어 더 이상 지원되지 않는다.
 2. 멀티 테넌시 
     - 테넌트마다 별도 context를 하고 싶다면.
 3. 플러그인 시스템
@@ -388,10 +415,13 @@ ApplicationContext 인스턴스 생성 완료 (ApplicationType에 따라 구현�
   └── Environment 연결됨
   └── 핵심 BeanPostProcessor 등록됨 (@Autowired, @Value 처리기)
   └── Initializer들 실행 완료
-  └── BeanDefinition 1개 등록됨 (= @SpringBootApplication 클래스)
+  └── BeanDefinition 등록됨
+       - MyApp (@SpringBootApplication 클래스) — load()에서 등록
+       - 인프라 BeanDefinition들 (ConfigurationClassPostProcessor, AutowiredAnnotationBeanPostProcessor 등)
+         — ApplicationContext 생성 시 자동 등록
 
 아직 없는 것:
-  나머지 BeanDefinition들 — Phase 04에서 @ComponentScan, @Import 등으로 수집
+  사용자 정의 BeanDefinition들 — Phase 04에서 @ComponentScan, @Import 등으로 수집
   Bean 인스턴스 — Phase 05에서 생성
 
 이벤트:
