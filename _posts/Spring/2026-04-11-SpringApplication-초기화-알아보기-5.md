@@ -131,6 +131,12 @@ Spring Boot 2.6+에서는 기본적으로 순환 의존성을 금지한다 (`spr
 
 ---
 
+### Phase 05 전체 흐름
+
+![Phase 05 전체 흐름](/assets/posts/SpringApplication-초기화-알아보기-5/SpringApplication-초기화-알아보기-5_img_001.png)
+
+---
+
 ### 간단 정리
 
 ```

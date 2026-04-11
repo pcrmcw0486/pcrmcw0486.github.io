@@ -248,6 +248,25 @@ fun main(args: Array<String>) {
 - PropertySource = 설정값의 출처 하나 (Yaml 파일 하나, 환경변수 등.)
 - `environment.getProperty("redis.host")`를 호출하면, 내부적으로 PropertySource목록을 순서대로 뒤진다.
 
+```kotlin
+// 개념적으로
+class Environment {
+    // 우선순위 순서로 정렬된 PropertySource 목록
+    val propertySources: List<PropertySource> = listOf(
+        CommandLinePropertySource(mapOf("server.port" to "9090")),
+        SystemEnvironmentPropertySource(mapOf("SERVER_PORT" to "8081")),
+        YamlPropertySource("application.yml", mapOf("server.port" to "8080"))
+    )
+    
+    fun getProperty(key: String): String? {
+        // 위에서부터 순서대로 탐색
+        return propertySources
+            .firstOrNull { it.containsProperty(key) }
+            ?.getProperty(key)
+    }
+}
+```
+
 ![alt text](/assets/posts/SpringApplication-초기화-알아보기-2/SpringApplication-초기화-알아보기-2_img_002.png)
 ![alt text](/assets/posts/SpringApplication-초기화-알아보기-2/SpringApplication-초기화-알아보기-2_img_003.png)
 

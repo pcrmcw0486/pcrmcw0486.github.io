@@ -291,6 +291,11 @@ annotation class Bean
 
 ---
 
+### TODO
+- [ ] SpringEvent 기반으로 각 Phase에서 어떤 이벤트가 발행되는지 전체 정리
+
+---
+
 ### 참조
 - [Spring Framework Overview](https://docs.spring.io/spring-framework/reference/overview.html) — Spring 모듈 구조
 - [Spring Boot Features](https://docs.spring.io/spring-boot/reference/features/spring-application.html) — SpringApplication 기동 과정
