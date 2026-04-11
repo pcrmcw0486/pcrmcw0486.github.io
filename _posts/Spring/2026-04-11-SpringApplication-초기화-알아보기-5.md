@@ -130,18 +130,6 @@ Spring Boot 2.6+에서는 기본적으로 순환 의존성을 금지한다 (`spr
 
 ---
 
-### 커스터마이징 포인트 전체 지도
-
-![Spring Boot 커스터마이징 포인트 전체 지도](/assets/posts/SpringApplication-초기화-알아보기-5/SpringApplication-초기화-알아보기-5_img_001.png)
-
-Phase 05 구간에 해당하는 커스터마이징 포인트:
-- **BeanPostProcessor** — 모든 Bean 생성 전/후 가로채기
-- **@PostConstruct / InitializingBean** — 개별 Bean 초기화 완료 시작 훅
-
-Bean이 없는 시점(Phase 01~03)에 끼어들고 싶다면 `spring.factories` 등록이나 전용 인터페이스(`EnvironmentPostProcessor`, `ApplicationContextInitializer` 등)를 사용해야 한다. Bean이 생긴 이후라면 일반적인 Spring Bean 방식(`@Component`, `@Bean`)으로 자유롭게 등록하면 된다.
-
----
-
 ### 간단 정리
 
 ```
