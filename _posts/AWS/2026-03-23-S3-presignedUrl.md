@@ -152,8 +152,7 @@ ex) https://my-bucket.s3.amazonaws.com/uploads/photo.jpg
 HMAC-SHA256( Secret Key, HTTP Method + URL + Headers + Body + Timestamp )
 → Signature 값 생성 → Authorization 헤더에 포함 → AWS가 동일하게 재계산해서 검증
 ⚠ 매 요청마다 서버가 서명을 생성해야 함 / Secret Key가 서버에만 존재
-```
-```
+
 SDK (SigV4)          서명 위치: Authorization 헤더
                      누가 서명: SDK가 매 요청마다 자동 생성
                      사용 주체: 서버 (Secret Key 보유)
