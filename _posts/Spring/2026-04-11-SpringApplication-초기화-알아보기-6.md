@@ -12,6 +12,7 @@ tags: [spring-boot, startup, lifecycle, graceful-shutdown, runner, kubernetes, r
 > - [4. Bean Definition 등록](/posts/SpringApplication-초기화-알아보기-4)
 > - [5. Bean Instance화](/posts/SpringApplication-초기화-알아보기-5)
 > - **6. Context Refresh 완료 & Application 기동** ← 현재 글
+> - [총정리](/posts/SpringApplication-초기화-알아보기-총정리)
 
 ### 전체 개요
 
