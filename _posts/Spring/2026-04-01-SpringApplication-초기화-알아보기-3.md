@@ -1,16 +1,15 @@
 ---
 title: "SpringApplication 초기화 알아보기 - 3. ApplicationContext 생성"
-> - [4. Bean Definition 등록](/posts/Spring/SpringApplication-초기화-알아보기-4)
 date: 2026-04-01 10:00:00 +0900
 categories: [Spring]
 tags: [spring-boot, startup, application-context, bean-definition, initializer, context-hierarchy]
 ---
 
 > **시리즈: SpringApplication 초기화 알아보기**
-> - [1. 초기화](/posts/Spring/SpringApplication-초기화-알아보기-1)
-> - [2. Environment 준비](/posts/Spring/SpringApplication-초기화-알아보기-2)
+> - [1. 초기화](/posts/SpringApplication-초기화-알아보기-1)
+> - [2. Environment 준비](/posts/SpringApplication-초기화-알아보기-2)
 > - **3. ApplicationContext 생성** ← 현재 글
-> - [4. Bean Definition 등록](/posts/Spring/SpringApplication-초기화-알아보기-4)
+> - [4. Bean Definition 등록](/posts/SpringApplication-초기화-알아보기-4)
 
 ### 전체 개요
 
@@ -25,7 +24,7 @@ tags: [spring-boot, startup, application-context, bean-definition, initializer, 
 ---
 
 ### 3. ApplicationContext 생성 - Context Instance 준비
-> - [4. Bean Definition 등록](/posts/Spring/SpringApplication-초기화-알아보기-4)
+> - [4. Bean Definition 등록](/posts/SpringApplication-초기화-알아보기-4)
 ApplicationContextInitializedEvent / ApplicationPreparedEvent
 Phase02에서 Environment들이 준비완료되었고 PropertySource체인들이 구성되었음.
 이를 사용하여, Application Context를 생성함.

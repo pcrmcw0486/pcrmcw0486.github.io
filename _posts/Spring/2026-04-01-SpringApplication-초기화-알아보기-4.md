@@ -6,9 +6,9 @@ tags: [spring-boot, startup, bean-definition, component-scan, configuration-clas
 ---
 
 > **시리즈: SpringApplication 초기화 알아보기**
-> - [1. 초기화](/posts/Spring/SpringApplication-초기화-알아보기-1)
-> - [2. Environment 준비](/posts/Spring/SpringApplication-초기화-알아보기-2)
-> - [3. ApplicationContext 생성](/posts/Spring/SpringApplication-초기화-알아보기-3)
+> - [1. 초기화](/posts/SpringApplication-초기화-알아보기-1)
+> - [2. Environment 준비](/posts/SpringApplication-초기화-알아보기-2)
+> - [3. ApplicationContext 생성](/posts/SpringApplication-초기화-알아보기-3)
 > - **4. Bean Definition 등록** ← 현재 글
 
 ### 전체 개요
